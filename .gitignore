@@ -1,0 +1,6 @@
+*.zip
+*.dll
+*.log
+*.tzcache
+.DS_Store
+Thumbs.db
